@@ -69,7 +69,8 @@ class Jo {
                 y: 0
             },
             inputDistance: 0,
-            inputAngle: -180
+            inputAngle: -180,
+            limitDistance: 0
         };
         this.callbacks = {
             onFocus: null,

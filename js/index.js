@@ -17,4 +17,9 @@ define(function (require) {
             console.log(event);
         }
     });
+
+    /*
+     * Can use params: parent, size, fill
+     * Callbacks: onFocus, onMove, onBlur
+      * */
 });
