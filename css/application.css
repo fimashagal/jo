@@ -1,0 +1,11 @@
+.application {
+    width: 100%;
+    height: 100vh;
+    background: #000000;
+}
+
+.application .jo {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
